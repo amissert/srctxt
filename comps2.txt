@@ -1,0 +1,914 @@
+Committee 1 (Degrand, Dessau, Kapteyn) Dec 2005 Degrand: How big are nuclei? How do you measure there size? (Rutherford experiment)
+
+Dessau: How does a transformer work?  Kapteyn: Tell me how the idea of the photon was developed?
+ 
+Committee 2 (Degrand, Dessau, Murnane) Jan 2006 Degrand: How big are atoms?
+How would you measure there size?
+How would you determine Avogadro's Number?
+Dessau: How do the sizes of atoms vary with atomic number?
+Murnane: Could you derive the wave equation from Maxwell's equations?
+Degrand: What would roll down a hill faster: a bowling ball or a barrel?
+Dessau: What is the difference between a metal, semiconductor and insulator?
+Why is the fermi energy of a semiconductor in the middle of the gap: not the top or bottom?
+Murnane: Why do metals reflect light? (explanation based on plasma frequency?)
+First set David Bartlet: There is a metal pipe in the ground. You have have a compass. Can you find the pipe?
+Eric Cornell: There is a double welled potential. If the wave function is in one side what is going to happen?
+What will be the frequency of what happens?
+The third dude on my committee: There is a charged particle in a magnetic field what will happen?
+Now suppose there is a uniform electric field perpendicular to the magnetic field. How will the particle move?
+Bartlet: You have a rectangular wave guide 1" by 1/2" . What does the normal mode look like? What is the lowest frequency that can propagate?
+Cornell: If the tower(Gamov) were sealed up and all the air were pumped out how much less would the tower weigh?
+I messed up a lot more on the second oral session. (K.T., Chris Greene and someone else) Chris Greene: Stark Effect.
+Although I remembered most of the perturbation expansion formalism, I could not remember the if it was Enot - Ek or Ek -Enot in the denominator of the expression for the shift in energy. Hence I didn't know the sign of the effect.) alfa decay (When I started to try to explain this with Fermi's golden rule I actually saw Chris Greene quickly shake his head no. I kept going, blathering on for quite a while. After the test I realized I could have used the uncertainty principle. Oops!)  Could the U.S. have determined the mass of Sputnik from its orbit?  
+K.T.: What is pressure? How would you explain atmospheric pressure to a 2nd grader? What is the weight of the atmosphere? (K.T. and me disagree on the best way to explain pressure.)  
+I have 2 particles confined to move opposite each other. What is the Hamiltonian? What are the energy levels? They are 2 indistinguishable spin 0 particles. What are the wave functions? Now they are spin ½ indistinguishable particles. What are the wave functions?  What is Rayleigh Scattering? Why is the sky blue? Why aren't clouds blue?
+
+Comps2 Committee (Degrand, Maclennan, Murnane) March 2006
+
+Murnane: If you have a battery with an internal resistor and you have a set of light bulbs. How would you arrange the light bulbs to get the maximum brightness from them? (The (equivalent) light bulbs have to match the internal resistance of the battery, they said it was an analogy to impedance match).
+
+Degrand: How big are nuclei? How do you measure their size? If instead of treating it as a point charge you treat it as a sphere which effects feel this change more, the large momentum transfer or the small momentum transfer.
+
+Maclennan: What is polarization? How do we encounter polarization on an everyday basis? What is it important for a fisherman? Is the light from the sky polarized? How do these sun glasses work? (I started drawing an EM wave, then talked about Brewster angle, and about the equation for intensity in polarizers, etc, etc)
+
+Murnane: Write down Maxwell’s equations. Derive the wave equation in metals. How could you find the skin depth? (I didn’t get to the skin depth, just talked about how o get there, she seemed to be happy with that)
+
+Maclennan: How does a guitar work? Something about the relationship of the waves in the guitar with the pitch that we hear. What kind of waves are sound waves and the waves in the guitar.
+
+Richard Sandberg Comps II (1-17-06) Committee: John Cary, Jamie Nagle, Henry Kapteyn
+
+H.K.: What is a toroid?  What is it used for? (Confining plasmas)
+
+J.N.: What is the twin paradox?  Why is it a paradox?  What principle corrects the fact that special relativity says they would be different ages?  (General Relativity—non-inertial reference frame of accelerating space ship)
+
+J.C.: I have a big cube of copper, and a coil of wire above it.  If I close a circuit through the coil so that a current begins to flow through it, the coil of wire jumps up in the air, why?
+
+J.N.: Where does the mass of the proton come from?  What does the unified theory predict about the mass of the quark? (wanted me to show that binding energy contributes negatively to mass)
+
+H.K.: How does a toroid confine a plasma?
+
+Amy Lytle, 7 March 2006 (Margaret Murnane, Dana Anderson, Walter Wyss)
+
+Murnane:
+1. Why are metals reflective in the visible? What are typical plasma frequencies for metals?
+
+Anderson:
+1. How would you figure out the frequency associated with an electron moving around an atom, approximating classically?
+
+2. Why, in HHG, do the electrons released only for a certain range of electric field phase values return to the vicinity of the ion, allowing recombination?
+
+3. You have a battery with 10 ohms of internal resistance. You also have three light bulbs of resistances 7 ohms, 3 ohms and 2 ohms. How do you set up a circuit in order to get the maximum amount of power from this system, using any or all of the light bulbs?
+
+Wyss:
+1. You have a hydrogen atom, with none of the fancy stuff (like spin-orbit coupling, hyperfine splitting, etc. Essentially the Bohr model.) What does the energy of a photon emitted from a transition between energy levels depend on? If you detect a photon from such an atomic transition, does this unambiguously determine which two energy levels were involved in the transition?
+
+2. (He draws a 2D random shape on the board for a physical pendulum, specifying the axis of rotation, the center of mass a distance d away, and that he wants me to consider small angles only. He led me through to the equation of motion, although I was incredibly confused by his leading questions during most of this process. When I tried to write down something I knew in order to go from there, he stopped me and insisted I answer his specific question.) How does the moment of inertia about the axis I’ve drawn relate to the moment of inertia when a parallel axis is at the center of mass?
+
+Daisy Raymondson, March 14, 2006. (Tom DeGrand, Henry Kapteyn, Marty Goldman)
+
+Goldman:  When a laser pulse passes through a plasma and creates a wakefield, what kind of wave is that? [i.e. transverse or longitudinal] How does the ponderomotive force of the laser affect the electrons?  What is the direction of this push?  What is a typical energy of one of these electrons after it is pushed out of the laser focus?  [~100 keV for laser parameters I was discussing, so this ends up being relativistic]  What speed does this correspond to?  On what timescale do the electrons rebound?  How do the ions respond in this process?  [This was in the “general physics” part of the exam but was related to my talk on plasmas; some of it seems like it could be fair game for anyone’s exam though]
+
+Degrand:  Can you talk about the energy levels in an atom and what happens when you put two atoms together, then several, and working up to a solid?  How does this lead to the difference between a conductor, semiconductor, and insulator?  What is a typical value for that bandgap in an insulator?  Is a semiconductor like that on its own [referring to extra positive or negative charge carriers] or do you have to do something to it?  Henry: What is the name of these pairs of charge carriers? [excitons]  Marty: What is a typical value for that bandgap in a semiconductor?  Henry: What happens to those energy levels in a semiconductor if you put those two (p-type and n-type) together?  What if you don’t put a voltage across it?  In the metal, if those electrons in the conduction band are free to move because they have some thermal energy, what happens if the metal is very cold?  How do the electrons respond to light then?  Does a metal at absolute zero become transparent?  Marty: What is a typical value for the energy of those electrons in the conduction band? [He was looking for “Fermi energy” but this wasn’t clear for awhile.]  Henry: How many electrons are in the conduction band?  [he was looking for “about one per atom”]
+
+Goldman:  How is a metal like a plasma?  What is a typical value for the plasma frequency in a metal?  What are the plasma frequencies for silver, gold, and copper?
+
+Goldman:  Can you write down the energy distribution of electrons in a plasma and in a metal?  [I couldn’t remember the equations but drew a graph instead, and Tom seemed happy with that.]  How does it change if the metal has some thermal energy?
+
+Goldman:  What is the important value of a particle’s energy in a plasma?  What is the condition to maintain free charged particles in a plasma?  [Again, this was in the “general physics” part of the exam but was related to my talk on plasmas.  What he was looking for was the plasma parameter, which is the ratio of a particle’s kinetic energy to its potential from all the other particles in a Debye sphere.]
+
+Goldman:  Here he asked me to explain or derive some plasma phenomenon I’d never heard of.  Tom told him that he didn’t even know that and it wasn’t a fair question.
+
+Degrand:  Can you show me how to calculate how high up to put a satellite for geosynchronous orbit?  [When I started to add in some numbers he said don’t worry about those, just show the equations to get r.]
+
+
+
+
+Mark Siemens, March 24 2006 (Henry Kapteyn, Mike Dubson, Dan Dessau)
+
+MD: How does an electron behave in a magnetic field? What is the cyclotron frequency?
+
+DD: An electron and positron can combine, emitting light. Is the opposite possible? What must be conserved in the process?
+
+MD: Why was the observation of the photoelectric effect such a big deal? Many people are concerned about microwaves causing cancer. Why are physicists not concerned about this?
+
+HK: How does a free electron behave in the presence of an EM wave? What is the frequency of this response? How does this relate to something we talk about in the lab? (Ponderomotive)
+
+MD: I have two copper balls that are identical except that I paint one white and the other black. If I put them both in an oven at 600 degrees C, how will the two balls’ temperature depend on time? What are the three methods of heat transfer? (I couldn’t think of the word “radiation”, so Henry bugged me about this afterwards)
+
+Xibin Zhou, April 18, 2006. (Jamie Nagle, Margaret Murnane, Chris Greene)
+
+JN1. Estimate the speed of electron in Hydrogen atom.
+JN2. Assuming electron is a rotating charged sphere with diameter less than 10^-18m, estimate how fast it should rotate to generate the electron spin.
+
+MM: Derive the wave equation from Maxwell equations
+
+CG1: Can you generate second harmonic with a Hydrogen atom? (Relating to paper)
+CG2: The energy level of a Hydrogen atom: using the Bohr model to estimate the orbital-spin coupling.
+CG3: The magnetic dipole of the Helium ground state?
+
+Robynne Lock, 22 August 2008 (Matt Glaser, Meredith Betterton, Margaret Murnane)
+
+MG: What is the theoretical limit to how high a pole vaulter can jump? (Note that the Olympics were going on this week.)
+
+MB: Explain how the ocean tides work. Why are there complicated calendars for the tides?
+
+MM: How do you determine if a beam is coherent? How do you determine the coherence length?
+
+Qing Li, November 7 2008 (Michael Dubson, Kyle Mcelroy, Henry Kapteyn)
+
+MD: Why no azimuthal magnetic field around a current wire?
+Draw the temperature dependence of conductivity for metal and semiconductor.
+For a non-slippery rolling wheel, what’s the speed at touching the ground, and accelerator?
+
+HK: How semiconductor laser work? (P-N junction)
+
+KM: How to understand that there is no metallic phase in 2D? Explain why there are wings in the energy distribution in Anderson localization? (Both relates to my comps II topic). (Henry added a question here) where is the Fermi level in the spectrum?
+
+
+Jing Yin, September 30 2008 (Oliver Dewolfe, Charles Rogers, Henry Kapteyn)
+
+OD: The energy level of  positron-electron pair
+And many other questions just about the talk.
+
+Chan (Rogers, Glaser, Degrand)
+
+1. (Chuck Rogers) What is the partition function and how could it related to the thermodynamic total energy and Helmholtz free energy? 2. (Matt Glaser) Explain diffusion of a particle.  I found out later that there is an equation that called "Einstein relation"   http://en.wikipedia.org/wiki/Einstein_relation_%28kinetic_theory%29  to describe a diffusion coefficient.  He did not expect me or anybody to remember that equation by heart but he just ask me how could the temperature and the size of the particle effects the diffusion.  I just tell him that the the high temperature should diffuse more and the temperature should be on the numerator of that relation.  I got these two questions because I did the biophysics stuff.  3. (Henry Kapteyn)  "The classic"  Derive  the equation for a plasma frequency.   Other questions are related to my talk and they seem to be interested to ask me more  than the general physics questions.   Paul (Margaret, Dan Dessau, and Ana Maria Rey)
+Mostly questions relevant to the talk but here's general questions I remember (mostly spun off from things I said in the talk):
+
+1) (Rey) When an electron is kicked out of a material, why is the momentum not conserved in the direction normal to the surface?
+
+2) (Dessau) What is the frequency of a mass m hanging on a spring (with gravity)? How does that compare to a mass of 2*m? (I think there was a slightly more subtle question in here because it seemed harder than that, but I can't remember exactly now.)
+
+3) (Dessau/Rey) Density of states for a free electron gas? Energy levels of a particle in a box?
+
+Ming-Chang (Kapteyn, Ye, Zimmerman)
+
+Henry: If you drive a car, there is one sharp cliff in the front. Using  the Quantum mechanic concept, could you estimate your survive  probability (What is the percentage your car bound back once you it the  cliff? You can assume this cliff is a step function)   Jun Ye: What is the brewster angle? Could you derive the brewster angle  relation?    Zimmerman: See attachment: 
+
+Craig (Rey, Finkelstein, DeAlwis)
+
+1. Given a (negative) Dirac delta potential, what do the bound states look like?
+
+2. Why can you consider the time-independent Schrodinger equation for the previous problem (they wanted me to discuss how stationary states vary with time)?
+
+3. How do you know you can consider separable solutions to the Schrodinger equation (this was based on my previous answers, they were looking for that a super-position of eigenstates gives a general solution)?
+4. What if I gave you a potential that now changes with time? (I began answering with perturbation theory, which they did not want. The committee wanted me to explain without equations. I made a comparison to a time varying Coulomb potential with an interacting laser field as well as an infinite square well that changed in size and discussed how I would approach these and they seemed satisfied).
+
+5. Describe Archimedes’s principle. (This was meant to be a question explaining buoyant force. They eventually wanted a derivation and some follow up questions including a quick estimate of the buoyant force of a person in a pool).
+
+Matt Seaberg (Raschke, Kinney, Maclennan)
+
+1. (Maclennan) (based on a temperature plot on one of my slides that mentioned the temperature of the moon at “night”) How would you measure the temperature on the moon? What does that mean? (In the end it seemed like he was looking for me to say something about blackbody radiation and how you can extract temperature from that)
+
+2. (Kinney) Describe how the spin-lattice relaxation rate works in NMR (this was sort of related to my topic and I did not do very well answering. I said something about using Fermi’s golden rule to get the relaxation rate and that you typically get a peak in the rate just below a phase transition. They didn’t pursue it much further).
+
+3. (Maclennan) Describe a ferromagnet (I said something about the exchange interaction between adjacent lattice sites). Now how would you describe it to someone in a freshman physics course? What does a bar magnet look like? What do the fields look like? Now what about a ferroelectric bar (a material with a frozen-in electric dipole moment)? Are there charges in either case? Where are they? What about currents?
+
+4. (Raschke) Can you write down Maxwell’s Equations? Which term wasn’t there when Maxwell first wrote the equations (I didn’t really remember)? Could you have an electromagnetic wave without that term? Now consider a wire that’s broken at some point by a capacitor, and consider the case when the capacitor is charging. What do the fields look like, with and without the term (basically after the term is included you avoid a discontinuity in the magnetic field at the capacitor)? Who was the first person to experimentally confirm the existence of E-M waves?
+
+5. (Raschke) Nuclear fission has been in the news recently. Can you write down an equation describing the reaction? Can you get a chain reaction with just one neutron produced in the reaction? Do you know how much energy is released in the reaction (I was off by an order of magnitude because I remembered the percentage of mass lost incorrectly, but they told me the correct value)? How many reactions would it take to power Boulder for one day? (Maclennan) How much mass is this? If you had that mass of sugar could you hold it in your hand? (Henry) Did you mean how much sugar you would need to break down to release an equivalent amount of energy? (Maclennan) No, but let’s do that. (I found it to be about a million times more molecules)
+
+6. (Maclennan) Do you know what a pan pipe is? Now consider just one of the pipes. If one end is closed and the other open, what is the fundamental wavelength that will resonate? How do you know what frequency this is? What type of wave is this? (longitudinal) We know that E-M waves are transverse, can you have transverse waves in materials? What type of materials? What type of force do you need in order to have a transverse wave in matter?
+
+Michael (DeGrand, Ritzwoller, Thompson)
+
+1. DeGrand/Thompson: Why is the sky blue? (Rayleigh scattering).  Scattering of light off particles much smaller than the wavelength.  The induced dipole moment in a molecule can be treated as having the same e^(iwt) dependence as the driving field.  Radiation from the dipole field depends on the acceleration, so this gives the w^2 field radiated field, so a w^4 dependence in the intensity.  (Blue light scatters more).  Some question about whether the scattering process is polarization dependent (orientation of molecule relative to field does affect scattering).  How does this affect the light we see?  This led to some questions about drawing the field of a dipole, dipole radiation pattern.  Some questions about gravitational field lines, and what would field lines look like if there was also a negative mass sun in solar system, (exactly like field from + and – charges).  What if they were both positive mass stars?  From an observer very far away, how would the field look (at very far away, just like point mass to first approximation, then multipole expansion would give higher order terms).  Would there be a dipole term (no for two equal positive masses).
+
+
+2.  Thompson/DeGrand: Hydrogen atom spectra, starting with Bohr model, and adding in various complications.  How many states are in each degenerate level in the Bohr picture, and what does the energy of the state depend on?  Spin-orbit coupling, what is it?  How are states split (split by j).  How many j values are allowed are there for a given n and what are they?   What do the s orbitals look like?  P orbitals?  What if you had an atom in a superposition of the 1s and a 2p state, what would the wavefunction look like?  What would the energy be?  What would happen if you measured the atom, and what frequency would this depend on?
+
+3. Ritzwoller:  We can observe the orbital radius and period of exoplanets, how does this help to better determine the mass of the stars they orbit?  
+
+Ritzwoller:  (these were related to talk) What is the Coriolis effect? How does it affect atmospheric motion on Earth?  Do I know what geostrophy is?  (Before I could answer DeGrand interjected that he had no idea what it was.)  Described geostrophy (pressure gradient force balances by coriolis force), for an arbitrary wind motion, (say eastward in Northern hemisphere) what must the pressure gradient force look like for this to occur?
+
+Bosheng Zhang (DeGrand (chair), Cornell, Schibli) on April 12th, 2011.
+Cornell: Assume there’s an oscillation of the earth surface starting from one point on the earth. How long does it take for this oscillation to travel one round? Give an estimate.
+Zhang: t=2*pi*r/v, with v=3000m/s (10 times of the velocity of sound wave in air), with r=6400km is the radius of the earth.
+Schibli:
+About Nuclear power plant, how does it work? How do we get energy?
+Give a specific example of reaction.
+TD: Write the energy conservation equation for this reaction.
+Suppose we get 100MW from this plant, how often should we refill the material?
+How to control the reaction rate?
+Zhang: We slow down the neutrons to slow down the reaction instead of controlling Uranium.
+Why would fission for some heavy elements (U) and fusion for other elements (H) release energy?
+I answered that the average mass of one proton/neutron in the nuclei has a curve with lowest point in the middle. Eric then ask me what element is at that minimum position. I happened to know it’s Fe.
+They were happy and didn’t stop on this question. Eri asked me how the various elements in the universe are created, given that at the beginning, there’s only Hydrogen. I said fusion of Hydrogen can lead to creation of He and Oxygen and other elements that are lighter than Iron. But then I couldn’t figure out how elements heavier than Fe are created. Prof. Tom DeGrand reminded me at this point. “Think about it! there’s a star, with all the H fusion and become Fe. All the energy is released. Just Fe is left. What will happen at this time”? I then guess it will collapse and gravity energy converts to the energy that support Fe fusion reactions and create other heavier elements. Eric finally said, yes, this is called Supernova.
+DeGrand:
+Tell me something about Hydrogen atom.
+I said it’s composed of one proton plus one electron. There were several models about it in the history. Emmm…. E1=-13.6, and En=E1/n^2.
+Is n the only quantum number?
+no. n l m
+List the quantum states labeled with nlm. 1s, 2s, 2p, and then plot them.
+Explain: 2p to 1s decay happens really fast, but 2s to 1s decay takes for ever. Why is this?
+Eric then ask me. What will be the probability distribution like for a superposition state of 2s and 2p? At the beginning consider they have the same energy. Then consider the energy for these 2 levels are different.
+I said the electron will have greater probability in the upper hemisphere where 2s and 2p have the same sign and lower in the lower hemisphere. If the energy is different, there will be a net oscillation in the z direction for the electrons. I said it will radiate.
+Tom DeGrand then said for a dipole radiation, in which direction you will observe most radiation power?
+Tory Carr (Phil Armitage, Jim Smith, Ana Marie Rey (Chair))- May 2011
+
+I did solar mean field dynamo theory (how the sun's magnetic fields are generated and regenerated) so a lot of the questions were tied back to the sun... but they were very general physics.
+
+(Rey) You have two spin ½ particles. What are the states/ wavefunctions they can be in? What are the energy levels of those states? What do we call those? Which one is higher and why? (triplet/ singlet problem)
+(Armitage) I have a photon in the sun. How does it get out? (talk about random walk in 1D and diffusion) Can you estimate the amount of time that it would take to get out if you know the average distance between collisions? What would be this for the sun?
+(Smith) The sun is much bigger than the moon and has a much larger gravitational pull on us then the moon. Why isnt the tide dependent on the sun? (Start with general description of tides, barebones derivation of force, find it depend on the gradient, estimate ROUGHLY the size of the sun tidal force)
+(Rey) What is gauss' law? What would be electric field look like away from a current carrying wire? (she didnt really want derivations here, I think she just wanted you to talk about symmetry arguments to reason that it would be radially dependent and barebone equations)
+(Smith) I have a whole bunch of people in a room and the room is cold, after a while it heats up. What is responsible for this? (This is was really weird question because I wasnt sure if he wanted me to start talking about people as blackbody emitters.. so he kind of refined it to a different question). About how much energy does a person radiate a second and by what methods? (Estimate 2000 cal/ day diet and convert).
+
+
+Fall 2011
+
+Kathy Hoogeboom-Pot (Lewandowski, DeGrand, Hasenfratz; topic: spiral galaxy formation)
+
+Some topical questions: What is “z” (cosmological redshift)? How might disk galaxy formation compare to formation of planetary disks (and particularly terrestrial planets because another recent CompsII addressed that) around stars? More details about how galaxy formation is modeled, explanation of the one equation I had in my paper. What are resonances in the context of stellar systems and how could they cause absorption of the spiral density waves?
+
+Lewandowski: Why do objects appear fuzzier at night? (Going for the fact that larger pupil means letting light enter through more than center of lens, leading to more aberration; however, I started out with the differences between distributions of rods and cones in eye leading to differences in resolution but that was too “biological” for her, even though it is the real main reason for this effect; then I tried to relate it to a pinhole camera, which also was not appreciated)
+
+Hasenfratz:  What’s the relative occupation of the ground and first excited state of hydrogen in the sun?
+DeGrand: Why do some hydrogen excited states have long lifetimes and others are quite short – specifically considering ground and first excited?
+
+Lewandowski: How might you estimate the size of a hydrogen atom?
+
+Kapteyn: What is that size? (I was later told I could have just told them ~1 angstrom, but I plugged in numbers)
+
+Hasenfratz: Pictures of dinosaurs often show a very large moon – do they know something actually physical? I.e., the moon is moving away from earth – how can this happen?
+
+Susannah Brown (Lehnert, Hermele, Bohn; topic: anyons)
+
+Lehnert:  What is the band gap energy of a typical semiconductor? (~1 eV, corresponds to about 12000 Kelvin)  Why can you have current even though your ambient temperature is much less than 12000 K? Assume the semiconductor is a two-level system with a non-degenerate ground state.  [If the upper level is highly degenerate, this allows it to have significant population, even at low temperatures.]  Hermele:  You have a 2D material with current traveling in one dimension, vanishing resistance in the direction parallel to the current, and non-zero resistance in the perpendicular direction.  How can you tell that the current will be dissipation-less?  [Use Ohm's law to find that the component of the electric field parallel to the current must be zero.  If the electric field is zero there is no voltage drop along that direction so only dissipation-less current can flow.  This question is tangentially related to my topic, but was intended to be a general physics question.]  Bohn:  How big does an asteroid have to be before you can't jump off of it?  [an escape velocity problem: estimated initial kinetic energy by how high you can jump on earth and assumed the density of the asteroid is about the density of water (could have used density of Earth). ]
+
+Emrah Turgut: Dana, Meredith, Andreas, topic: topological insulators
+
+Andreas: 
+Can you explain about two fermions in a potential? Later he wanted me to explain singlet and triplet states which I was confused.
+
+Dana:
+I have a two ping-pong balls and one is attached to ground and the second one is one meter above the first one. How many times can the second one bounce from the one on the ground? I asked whether the balls are perfectly round, he said yes. And I said once, because of uncertainty it cannot hit the top and it can go any direction. He looked satisfied and I did not go further. 
+
+Meredith:
+Can you explain tides?
+What is the max height you can jump at pole vault? I relate it with kinetic energy of runner and initial potential energy and the answer was 6m which is quite good.
+
+Andreas:
+Can you explain Bell's experiment? There are two big metal sphere one is grounded and another one is connected to ceiling to get lightening. There is small one between two and attached to ceiling but isolated. When lightening hits to the right one, the small one starts to bounce between twos and 'rings'.
+
+Dana:
+Asked a lot about my topic which is topological insulators and gave hard time. 
+
+
+Dan Weflen (Comittee: Anna Hasenfratz, Thomas Schibli, and John Stocke)
+(Subject: Terrestrial Planet Formation)
+
+Describe how protoplanetary disks form. (Related to subject)
+(Schibli) You have a slab sitting on a frictionless plane. A puck hits the slab and sticks to it in a perfectly inelastic collision.  Compare the velocity and angular velocity of the puck-slab system when the puck hits the slab aligned with the center of mass, and when it hits the edge of the slab. Specifically, describe (but don't calculate) the angular momentum, linear momentum and energy in both cases.
+(Stocke) How do you detect extrasolar planets? (Related to subject)
+(Hasenfratz) Tell me everything about the addition of angular momentum when dealing with particles of spin ½. Derive the Clebsht-Gordan coefficients.
+(Hasenfratz) What are the major unsolved problems and areas of current research in terrestrial planet formation? (Sort of related to subject, but pretty universal)
+(Stocke) How narrow can you focus a laser? (not in the gaussian beam approximation, he was asking for the actual Heisenberg limit)
+My talk was on the large objects of the Kuiper Belt, one thing in particular in my talk that the committee wanted to delve into was orbital resonances
+
+Matt Grau (Committee: Dan Dessau, Fran Bagenal, John Bohn; Topic: large objects of Kuiper Belt)
+
+Committee particularly delved into orbital resonances
+
+Dan Dessau
+- What determines the quality factor of an orbital resonance? How long will one last? The answer to this was there was no easy intuitive answer, you really needed numerical modeling.
+
+Fran Bagenal
+- How is an object caught into a mean motion resonance?
+the answer to this question was not very concise, and basically the committee member ended up knowing far more than I about it
+
+Fran Bagenal
+- How do you measure the mass of a typical large KBO, say Pluto?
+you find a satellite and measure it's orbital period and then use Kepler's law
+
+John Bohn
+- What is the ground state wavefunction of helium? What is the ground state energy?
+The overall wavefunction must be antisymmetric, so you can either have spatially symmetric and spin singlet or spatially antisymmetric and symmetric spins. Because the two electrons have a repulsive interaction, the antisymmetric combination of hydrogen ground state wavefunctions is lower energy. To estimate the ground state energy, add the energy of two helium ions (ignoring the electron interaction term). A helium ion will have the energy of hydrogen scaled by z^2, so 2*(2^2)*13.6 eV
+
+Dan Dessau
+- If you look at a light bulb with some sort of light sensor, what will you see?
+lightbulb current is 120Hz sinewave, the light power is ~I^2, so it will look like a rectified 120Hz sinewave, or 60Hz. I drew a picture on the board
+
+Fran Bagnela
+- So the lightbulb is turning on an off at 60Hz. What is the temperature doing?
+I said it was following the current
+This question got confusing because then we started talking about the boltzmann distribution, and if the temperature of the filament was going from 300K to 6000K at a rate of 60Hz, why wasn't it changing color? I don't really know where this was going. Eventually the committee had me go over to the light switch and "do an experiment" by flicking the lights on and off. Unfortunately the lights were fluorescent.
+
+
+Collection of Comps II Questions
+Rewritten by Greg Smith 8-29-2011
+Old style
+Originally compiled by Brian King, 1997
+
+Comps II Questions 1997
+1st Session: Ford, Wyss, Robertson.
+1.) Wyss: Think of the simple hydrogen atom, without spon or any complicated effects. How do the energy levels scale with the radial quantum number? Now, is it possible that two completely distinct transitions between two different energy levels will give you the same frequency of radiation? (My answer was that for the lowest levels, No. But he wanted it generally, and the answer is Yes! He made me try the transitions n=35 to n=7 and compare the energy difference to n=5 to n=7; the energy difference was the same!)
+2.) Ford: A pion (Pi0) decays into two photons, and it is observed that the photons come out at the same angle relative to the initial direction of motion of the pion. If we know the initial energy of the pion, what are the energies of the resulting photons in the LAB frame?
+3.) Robertson: Supposed I have a ping pong ball that bounces up and down between the table and the pad. Now suppose that I start moving the pad toward the table. How does the “bouncing rate/period” change as I move the pad close and closer to the table? (He wanted an answer using Adiabatic Invariants…)
+4.) Wyss: Back to Quantum Mechanics. Suppose I have an operator A. Write down the Heisenberg picture equation of motion of this operator. Now, consider operator A squared. Write down the equation of motion of A squared and work out the time deriviative. Is the result you get consistent?
+5.) Ford: Suppose I have a coin resting on its “edge” on top of a table. Now suppose that there is a uniform, time independent magnetic field applied perpendicular to the surface of the table (call it the z-direction.) The coin “tips” and it starts falling. How would you write down the equations of motion?
+6.) Robertson: Suppose we have a “gas” of fermions. What is the Fermi momentum in terms of the density of the gas and appropriate constants?(He wanted a very simple argument, not a complete derivation of anything.)
+
+2nd Oral Session: De-Alwis, Batarchaya (from Chem), Matt Glaser.
+1.) Batarchaya: Some random question about liquid crystals, of which I had no clue at all. It was an experimentally oriented question.
+2.) Glaser: Why are most of the aroms on the periodic table bosons? Explain this be adding spins for Z electrons, Z protons and N neutrons. He wanted a pretty general argument in terms of addition of integer numbers of spin 1/2 particles --he did not ask for Clebsch-Gordan coefficients involved.
+3.) (missing question)… semiconductor in order to increase the gap energy. Again, experimentally oriented and yours truly was clueless!
+4.) De-Alwis: The decay process of a pi-zero meson into two photons. He asked me questions about symmetries of the decay process and also asked me to write down state vectors for the initial and final states taking into account these symmetries (angular momentum, mass-energy conservation, etc…)
+5.) How does a CD-player work? I ran out of time answering this question.
+
+Next section:
+Cooper:
+1.) Light escaping from glass into air. What is going to happen? Is there an electric field outside the glass even if the light is totally internally reflected? What are the boundary conditions?
+2.) Bose particles in a box. Show that the wave function and write the energy.
+Goldman:
+1.) Describe the paradoxes of early 20th century physics that lead to quantum mechanics.
+2.) Classical simple harmonic oscillator. Solve the formular. Now introduce driving force and derive the equations without just regurgitating the answer from memory.
+Hall:
+1.) Tell me about Michelson and show how the interferometer works. Where does the energy go when the light beams destructively interfere? How would you adjust the interferometer’s sensitivity to detect gravity waves?
+2.) Tell me about the energy levels of Hydrogen. LS coupling, fine splitting, symmetries, etc.
+Ritzwoller:
+1.) Explain the physics of why a Teflon pot boils water faster than a regular pot.
+	(Ed. Comment: I should mention that this question would only be asked by someone who doesn’t know how to cook, or even make a decent cup of tea. I was told that the answer they’re looking for is that the bubbles which form on the sides of the pot *before* true boiling takes place don’t stick to the sides of the pot, so it *looks* like the water is boiling earlier. If this is the case, then: a.) The person makes a lousy cup of tea and b.) this isn’t boiling, where gas forms in the *bulk* of the liquid. If I’m right, this is a dumb question. But you may want to check your own sources… - bk)
+2.) It’s the 1700s and someone just measured big G. How would you measure the massof the earth? Then, how would you measure the sun’s mass?
+O’Sullivan:
+1.) Why is the sky blue? Then he makes an argument based on symmetries for why the sky should be black. Explain what is wrong with this argument.
+2.) Why does water bunch up equally on either side of a rock in a stream?
+(Committee member’s name forgotten):
+1.) Four electrons in a square lattice with spin-spin couplings only along the side of the square. What does the energy level spectrum look like, writing the equations out. (This is a kind of high temp superconductor model.)
+2.)(question cut off)… Boulder relative to g?
+Also: there were lots of follow-up questions on the centripetal force on the surface of the earth, getting into Foucault’s pendulum, etc. They were coming at me too quickly to remember them.
+
+Cornell:
+1.) What is the acceleration for the mass on the end of a pendulum? That is, draw the vector. Of course, theta is small. (answer: Easy)
+2.) You go up to a pond and look at its surface. You notice the breeze increases so that there is a critical wind velocity that creates waves. Why is this? What are the velocities for long, medium and short wavelength waves? (Answer: Know v’s and how they scale. Explained by a velocity vs. wavelength graph.)
+MacClennan:
+1.) Questions about my research.
+2.) How does a hot air balloon work? How much above room temperature would the air need to be to float a typical balloon? Using a heater of your choice, how long would it take to heat the air to “floating” temperature? (Answer: Find density of hot air needed. Use thermodynamics to find the temperature change and length of time.)
+3.) I have a CD that contains one hour of music. Starting from there, what are the size of the dots providing the information? (Answer: estimate speed, area, and number of bits per loudness and tone and go from there.)
+Ristinin:
+1.) How does an electron microscope work? What are the energies and wavelengths of electrons at different stages? How do you focus and expand the beam? (Answer: Rough sketch of geometric optics set up. Know energies and find wavelengths. Focus and expand by appropriate E and B fields)
+2.) How does the jet stream work? How does air move into low and high pressure regions? Ho does the gulf stream work? (Answer: look at heat convection, pressure flows and use the Coriolis force.)
+Dessau:
+1.) Describe the photoelectric effect. Given this data for wavelength and stopping potential, what is the material’s work function?(Answer: Egamma - ePhi = KEmax. Most Phis are a few eV.)
+2.) Draw the ground, first and second excited staets for the following potentials. He gave me a finite square well and a finite square well with a square bump in the middle. Discuss the form of the wave function in each region and contrast wave functions of the various states in each region. (Answer: look up wave functions.)
+Stern:
+1.) Starting from the wave equation and appropriate boundary conditions, find the equation for Psi (as done in Jackson). Use this to determine the cutoff frequency for a wave guide. Did you do the waveguide problem concerning the cutoff frequency for a half-cylinder on the written exam? (I unfortunately answered ‘No.’) Do it now please. (Answer: follow Jackson Chapter 8.)
+2.) Discuss the spectrum of an H-atom. Which decays to a 1s faster, 2s or 2p? (ans: 2p.) Why? (ans: dipole transition.) Are these two degenerate? What other interactions are there? (ans: he wanted Spin-Orbit, relativistic correction to momentum ~p^4, Spin-Spin and the Lamb shift.) What is the energy shift due to the Lamb shift? (ans: goes down by alpha^2.) How does the 2s decay? If I turn on an external electric field, how does the 2s lifetime change? (ans: 2s pops up first, then down --again in dipole approximation. Use Fermi’s Golden rule and symmetry.)
+Weiman:
+1.) How could I make a magnetic trap for romm temperature atoms? (ans: magnetic bottle and adiabatic invariants.) What does the magnetic field couple to? (ans: Bohr magneton - electron spin) Why use the …part missing…
+2.) …magnetic field needed? (ans: kd*T ~muB*B)
+Dubson:
+1.) How fast does a bee have to flap its wings so it can hover?
+2.) What is the potential for a ball of mass m on a hard surface in a gravitational field?
+KT Mahanthappa:
+1.) What is the force on a person standing in a hundred mph wind?
+2.) Explain how you would determine the temperature of the sun with an experiment on the earth.
+Douglas:
+1.) Show how a dielectric slab placed in the air gap of a capacitor changes the capacitance. If only half the gap was filled, what would the capacitance be? (with any integrals or Gauss’ law)
+2.) How does removing a sphere of radius R/2 from a sphere of radius R (where it is removed off-center) affect the force from it on a mass “m” a distance “D” away?
+Franklin:
+1.) What is the difference between the Coppernican and Ptolemaic systems? Which do you believe and give proof.
+2.) What is the parity operator and is parity conserved? Give an example of a violation of parity conservation.
+Dreitlein:
+1.) Approximate the value of the 25th level of the quartic oscillator.
+2.) Nasty question from the writtens about BEC in the presence of a gravitational field. (not specifically written)
+(unnamed):
+1.) A bunch of questions on what silly putty is (not specifically written) (Visco-elastic materials?) I had to explain properties based on its lack of crystal structure.
+2.) What is the ratio of the rotational to linear kinetic energy of a sphere rolling down an incline?
+
+Ford:
+1.) You have a quarter standing on edge on a table in a vertical magnetic field. If it tips over, what’s its equation of motion? (induced currents, Joule heating, etc.)
+2.) Decay of a pion with given momentum. Find energy and frequency of photons and angle of their trajectories.
+Robertson:
+1.) Given a generic wave equation, figure out the speed of sound.
+2.) How does  a laser work?
+
+Wyss:
+1.) Time evolution of an observable (question not specifically written) (remember an observable and its time derivative do not commute)
+2.) Derive Kepler’s third law.
+3.) Relate g = 9.8 m/s to G = 6.67 *10^-11 m^3/(kg*s^2)
+Greene:
+1.) Explain everything you know about the second energy level of the hydrogen atom.
+2.) Proton-nucleus scattering: what information can you get off a plot of differential cross section vs. angle.
+Iddings:
+1.) Given mass and knowing the constants h, G and c, estimate the radius of a black hole dimensionally.
+2.) Explain the difference between two horses pulling a pair of levi’s jeans apart and if one of the horses was instead a fence post.
+Holland:
+1.) What are the differences between laser and incandescent light. How do you test for those differences? Know about coherence length.
+
+Nauenberg:
+1.) Explain the mass differences between the isobars of C-12, N-12, B-12 and Be-12, given the different masses.
+2.) Find the wavelength of a thermal neutron star.
+Barker:
+1.) Draw the electric field between two capacitor plates. If a wire loop is place in the field, is a current induced?
+2.) Find the current flow between two concentric spherical conducting shells of radius a and b, held at potentials +V and -V, with a material of resistivity Rho between them.
+Taylor:
+1.) Give the two different forms of Schroedinger’s equation.
+2.) Which one is more fundamental? In what cases does the less fundamental one hold?
+Rainwater:
+1.) Explain the difference between first and second order phase transitions, draw a typical phase diagram. Do all substances have this type of phase diagram? Now, draw isotherms on a P-V diagram and indicate where the first and second order phase transitions are. What is the behavior of a material at the critical point? What prediction does mean field theory give about the shapes of P-V diagrams?
+2.) Given a box with a square cross-section but arbitrary length, with density 0.9 g/cm^3, find the depth to which is sinks in water. Evaluate the stability of its equilibrium with respect to being either parallel or perpendicular to the surface of the water for various lengths.
+Holland:
+1.) Given an evacuated can tied to the bottom of a pond, find the tension in the rope. Derive Archimedes principle using the can’s geometry.
+2.) How is it that a spherical mass can be treated as a point particle in Newton’s gravitational equation?
+Greene:
+1.) Shows a scattering cross section for 1000 MeV protons off of oxygen: identify structure and use it to determine the size of the oxygen nucleus.
+Iddings:
+1.) Estimate, using dimensional analysis, the force between two parallel conducting plates due to vacuum fluctuations of the electromagnetic field. Now use reasonable numbers to find a numerical estimate. Compare this to an estimated force for a torsional pendulum. What sort of experimental problems can one expect in trying to detect the vacuum fluctuation force?
+
+(Given as narrative)
+Jinx Cooper, John Hall, Marty Goldman
+Cooper: Drew an interface between air and glass, and asked about the behavior of light incident from glass to air (Snell’s Law). He then asked what happens when the incident angle is increased (Total internal reflection). He then asked if there is a field in the air. How do you tell, experimentally if there is a field? What are the boundary conditions at the interface? He wanted me to address “frustrated TIR.”
+Goldman:
+1.) How do you solve the equations of motion for a pendulum?
+2.) What do you expect to happen in the case of small oscillations?
+Hall:
+1.) Tell me about a Michaelson Interferometer. Where does energy get lost? Assuming the detector has 100% efficiency, what limits the detectible changes in phase? What do you mean be “the beams interfere?” Does the beam splitter have to be a polarizing beam splitter?
+2.) Have you hear of BEC? Draw a 3D box with N bosons inside. How would you calculate the ground energy of this system? Simplify it to a 1D particle in a box. Solve for the wave function, apply boundary conditions, etc. The sides of the 3D box are at a certain temperature T, can you tell me what the condition is on T such that the bosons form BEC? (presumably… sentence ending cut off)
+3.) Tell me what you know about hydrogen spectra. What is the primary interaction in the atom?
+(Also given as narrative) DeGrand, Zafiratos, Hasenfratz
+DeGrand:
+1.) Explain how you would go about calculating the most efficient (fastest) trajectory of a skier through a slalom course.
+2.) Which atom is bigger, Hydrogen or Uranium? He wanted me to discuss differences in the atoms in terms of the attractive coulomb force between the nucleus and the electron cloud, and also the differences in character between the coulomb force and the strong force (range).
+3.) If you are far enough away from a collection of charge what do you need to know about that charge in order to calculate the field?
+Zafiratos:
+1.) Given a bar magnet and a loop of wire, plot the induced EMF as a function of time as you push the bar magnet through the loop. Do it again only considering the field inside the bar magnet.
+2.) Plot the amplitude vs. time for a harmonic oscillator, with no damping, then with damping. Does the damping change as the drag force increases? Plot the amplitude vs. frequency for driven oscillations. What is special about the natural frequency of the system?
+Hasenfratz:
+1.) What happens to a bar magnet as you heat it up?
+2.) What is parity? How does parity operate on position, linear momentum, and angular momentum? If I stand in front of a mirror, is my image a parity eigenstate?
+
+Kinney:
+1.) Consider an alpha particle. Estimate the momentum of a nucleon in the alpha particle.
+Bartlett:
+1.) Consider a button capacitor (parallel plate, circular) with current flowing onto one plate. What is the B-field between the capacitor?
+2.) Draw a phase diagram for water (P v. T). Note the feature, critical temperature, etc.
+Taylor:
+1.) Find the moment of inertia tensor for a thin, square plate rotating around one corner. He said the direction of the perpendicular axis was not important.(?)
+(yeah, this guy was a little stingy on writing down what questions he received)
+Clement:
+1.) Integrate x*exp(-x^2) from minus infinity to infinity. 
+Linsky:
+1.) Why is the sky blue? What type of scattering is Raleigh scattering? Where would you see a rainbow in the sky? What is the order of the colors in that rainbow? For a double rainbow, what are the order of the colors in the second rainbow?
+2.) What is the entropy of boiling something?
+Beale:
+1.) Given Hubble’s constant, estimate the age of the universe. What evidence besides the red shift we’ve just discussed is there for the theory of the Big Bang?
+
+Wyss:
+1.) Write down the magnitude of z (a complex number). What is an analytic function? Is the magnitude of z analytic? Write down the Cauchy-Reimann equation.
+2.) Give me a lecture about Lagrangian formalism. Derive the Euler-Lagrange equation from first principles. What is the order of the differential equation resulting from the Euler-Lagrange equation if L is a function of only q and q-dot? Consider Hamiltonian formalism. Write down the poisson bracket for two functions F anf G. If F is not an explicit function of time, what is dF/dT in terms of poisson brackets? Consider the Kepler problem. What are the conserved quantities? Have you ever heard of Runga-lenz law in Quantum mechanics? (He was looking for a variable that defined the direction of the semi-major axis)
+3.) Here are some facts: a.) Speed of light is the same in all frames, b.) Light slows down in glass, c.) Equivalence of mass and energy. Question is, if you have a resonant cavity (in vacuum) that resonates with some energy E, does it have an index of refraction greater than one? Answer is yes.
+Robertson:
+1.) Action angle variables -- what good are they? Apply it to the problem of a ping-pong ball bouncing vertically between a paddle and a table. Now bring the paddle closer to the table. The velocity of the ping-pong ball increases. Relate the kinetic energy of the ball to the height of the paddle. Robertson’s hint: think of a piston compressing a cylinder of gas. (this question was inspired by my lack of an answer to Wyss’s question about a third conserved quantity in Kepler’s problem).
+2.) Estimate the number density of say, Copper atoms in a metal. (~10 to the 28th per cubic meter). Can you use that to find the Fermi energy?
+3.) Describe you research. (I work with superconductors) What is the skin depth of a super conductor?
+Ford:
+1.) Tell me about the interaction of light with matter (Compton scattering, Photo-electric effect, and pair production). Describe the physical mechanism of each. How would you find the final energy of the photon if you couldn’t measure the recoil energy of the electron in Compton scattering? What is the characteristics energy of each interaction? Draw a plot of absorption cross-section vs. energy.
+2.) What is a Pi meson? For the reaction Pi -> e+   +   e-, find the angle of separation of the electrons given the momentum of the Pion.
+3.) A coin is on end in a magnetic field. How long will it take for the coin to fall?
+DeGrand:
+1.) Which atoms are the biggest? In other words, derive the Bohr radius as a function of z and n --it turns out they’re all about the same. Which nuclei are the biggest? (the ones with the highest z) Why? i.e. what is the nature of the forces that bind the nuclei and the electrons?
+2.) I have a potential distribution in my hands. Try to guess the potential as a function of distance. (I wrote down the multipole expansion and he seemed satisfied)
+Hasenfratz:
+1.) In a He atom, what is the ground state configuration of electrons in terms of spatial and spin eigenfunctions? Why does the anti-symmetric or symmetric wavefunction have lower energy? Consider the Hamiltonian with and without the electron-electron interactions.
+2.) What makes a magnet magnetic? Who do magnetic dipole moments “want” to line up? Discuss the effect of increasing the temperature. Draw a curve of M vs. T. What is different about the phase transitions for this and for a liquid-vapor system?
+Zafiratos:
+1.) Displace a mass hanging from a fixed support by a spring. Draw amplitude v.s time. Put in molasses and repeat. Drive the oscillator by moving the top support up and down with frequency w0. Draw amplitude vs. w… (missing sentence)
+Peak in both cases? Discuss the graphs in terms of the Uncertainty principle.
+2.)Drop a magnet through a loop of wire. Draw the induced current vs. time. Which way does the current go in the loop? (Lenz law)
+
+Comps II Questions 1996
+
+1.) What is NMR and how does it work (Smith, Ford)
+2.) Show how resonance comes about from a damped, driven harmonic oscillator (Shepherd)
+3.) There is a spool (like a spool of thread) sitting on a table. If there is string wound around it and coming off at the bottom end of the spool, what direction will the spool move when you pull on the string? As you pull, what is the relation between the position of the spool and the end of the string? What situation would cause the “spool” to move the opposite direction when the string is pulled? (Ford)
+4.) How much electrical energy is consumed in the U.S. per year? (answer in Joules) How much Uranium would have to be fissioned to produce this much energy? (Beale)
+5.) Estimate the energy released per fission of Uranium using the liquid drop model of the nucleus. (Sheperd)
+6.) What evidence is there for the Big Bang singularity? (Wanted more than the galactic red shift) (Peterson)
+7.) Explain the physics of the Joule-Thompson throttling experiment. Why does a real gas cool with the change in pressure? (Dreitlein) (I attempted a similar question on writtens, but didn’t do it correctly)
+8.) There is a mass suspended on a spring constrained to move only in the vertical direction. Attached to this mass is another identical spring and another vertical mass which can also swing in a plane. What are the normal modes of small oscillation? (Peterson)
+9.) Calculate the capacitance of any geometrical arrangement of conductors you like besides parallel plates. (I did concentric spheres.) (Smith)
+10.) Give evidence both experimental and theoretical that a classical electromagnetic field carries energy, linear momentum, and angular momentum. (related to the last colloquium before orals) (Dreitein)
+11.) There is an ensemble of protons in a constant magnetic field at temperature T. What are the proportions in the spin up and spin down states? (Smith)
+
+Anderson: Tell me about the three degree microwave background radiation (he wanted me to discuss this in the context of black body radiation).
+Ashby: What is the deBroglie wavelength of Sodium atoms in an oven?
+Naunberg: Derive Rydberg Constant and Bohr radius. I was asked what the fine structure constant was and when does it change!
+Anderson: Given a system of two ping pong balls(of course this is a quantum mechanical system--we all know they make quantum mechanical ping-pong balls.) One is fixed on the floor and the other is held at a height h directly above the first. If I drop it, how many times can… ---sentence missing.
+Ashby: Discuss gauge invariance. (He wanted a discussion a la Jaxon, Chapter 7). What quantity is conserved through this invariance?
+Nauenberg: What do you know about quarks? What about leptons? (Nobel prize, 1995)
+Sullivan: Some question about fluid flow in differently shaped pipes.
+Hasenfratz: Some question about isospin, adding spins using LS coupling method.
+Cornell: If a sample puts out 10,00 counts per second and I want to measure with an accuracy of 1 in 1000, how many seconds do I have to run the experiment?
+Sullivan: Why is the sky blue?
+Hasenfratz: Derive the drag force on a falling object and relate it to the terminal velocity.
+Cornell: An electron is confined to move on a ring. What is its lowest energy level?
+
+Franklin:
+1.) Given the free path of molecules in room temperature, 10^-7 m, find the size of molecules.
+2.) What is parity? Which experiment shows that it is not conserved?
+Greene:
+1.) Proton (1000 eV) is scattered by an Oxygen, given the differential cross section (has first min at 9 degrees), what kind of info can you figure out? Diffraction --> size of oxygen atom.
+2.) How to calculate the quadrupole moment of a neutron using the Wigner-Eckert theorem.
+Ristinen:
+1.) After opening a box of oranges, how long later until you smell it? It’s room temp.
+2.) Where does the magnetic field of the Earth come from? Why has it changed direction in the past?
+
+Ford:
+1.) You have a spool with thread wound around it (presumably lain on its side, though this is not specified by the writer). The inside radius is “a” and the outer is “b.” If you pull the thread, which way does it roll if it moves without slipping?
+2.) What is nuclear magnetic resonance?
+Beale:
+1.) How much energy is used by the United States in a year? Now, how much energy would we get if we harnessed every drop of rain and used it for hydroelectric power?
+Shepard:
+1.) What is the transition frequency for the first excited state of Rb? Why are the S and P levels split in Rb when they’re not in hydrogen?
+2.) Draw wave functions for the S and P orbitals.
+Anderson:
+1.) A pulse laser is incident upon a transparent, anti-reflective coated rectangular box in space. Does it move? If so, which way and why? (It turns out to be in the same direction as the laser propagation.)
+2.) Explain the three degree background radiation. What is the wavelength?
+Ashby:
+1.) What is gauge invariance? Derive it from Maxwell’s equations. What is conserved?
+2.) What is the deBroglie wavelength of a Rb atom at 200 degree C?
+Neuenberg:
+1.) How many electrons does a Na atom have? (he wanted shell degeneracy, etc.)
+2.) What are quarks? Give some properties.
+3.) What are leptons? How many are there?
+4.) What is BEC. What happens when it occurs? (wavefunctions overlap)
+5.) How would you find the energy levels of a cylindrical box? Write down the wave functions.
+
+Anderson: Boiling water in two pans. One is normal, the other is Teflon coated. Which boils faster?
+Naunberg: Two concentric conducting hemispheres with a dielectric filling the space half-way up. Draw electric field (unwritten) without writing equations. (Answer is to look for boundary conditions. E field is the same everywhere and everywhere radial.)
+Ashby: Oven with sodium gas, red hot. What is going on? Estimate the temperature. What is the wavelength of the sodium atoms? (i.e. the deBroglie wavelength, a term he specifically avoids using.) Oven has a slit 0.1 mm wide. Is there any diffraction of Na atoms moving out of the slit? He wanted numbers where appropriate. (Answer: think of the temperature of the sun, which is 6000 k, then go a little lower. Use kinetic energy = 3/2NkT for ideal gas.)
+Anderson: How would you make a spark gap with an inductor and a battery? (Voltage across the inductor is L dI/dt, and dI/dt is essentially infinite when the switch is open.)
+Nauenberg: What is a quark? Name them. Properties? What is a lepton? Give examples. (Quarks form bound states of 2 and 3, have elementary charge or +/- 1/3 and 2/3. Etc. Leptons are electrons, neutrinos, muon, tau. Etc.)
+
+Cooper: Given a plane electromagnetic wave, what is the linear momentum? Does the wave have angular momentum? Can any EM wave have angular momentum? Under what conditions? (This is a veiled allusion to a recent collopuium which discussed the _orbital_ angular momentum of light, not spin. Angular momentum is, as always, r X p.)
+Rankin: A wheel moves through mud and the mud flies off. At what angle does the mud leave the tire to maximize the height? What conservation principle is being used to solve the kinematic equation? (There’s no trick here. Just write down the kinematic equations and remember that there is an initial height which depends on the angle of release. The question about conservation principle was vaguely worded. She was talking about energy.)
+Rodgers: Ice cube thrown into a container of water, and that system is isolated --no heat exchanged with the outside world. What’s going on? What happens with time? Plot a sketch of the time dependence of the system i.e. temperature of the water versus time. Why did you draw it that way? (He seemed to want a very talky description, including ideas about entropy. For example, why does the ice cube not get colder? Why does the entropy increase? He wanted physical arguments from a probability perspective.)
+Rankin: What won the nobel prize? (In my year it was the discovery of the Lepton and neutrino, a shared prize.)
+DeAlwis: He asked me about a Pi-zero meson (isospin 1, projection 0) decaying and emitting two photons. He wanted to know if the system was isotropic (i.e. the bound state of the two quarks being isotropic.) If it is isotropic, then the probability of detecting the two photons is uniform over the unit sphere. He also wanted to know why the photon can’t have a spin projection of 0 and also if you can move to the rest frame of the photon.
+DeAlwis: He asked me about dark matter and how astronomers figured out that there is matter beyond the apparent boundary of a galaxy.
+Weiman: He gave me a list of ten experimental measurements and asked me to characterize them with a mean and error. He also wanted to know if and why the error decreases with more measurements (related to the Gaussian distribution).
+Weiman: He also asked me about NMR. It was pretty basic. He wanted me to explain how it is done (strong constant B-field along the z-axis which splits the degenerate level, small oscillating B-field in the transverse direction which induces transitions between levels.) He wanted to know what experimentally measureable quantities determine the frequency and amplitude. He wanted to know what the splitting was proportional to (the B-field and the nuclear magneton --I said Bohr magneton, which only applies to the electron in and atom, not the nucleus.) Finally, he wanted to know how one could get one state more populated than the other (if the collection of atoms is at room temp, they will be thermally distributed with equal probability in either state; if one cools the system down then the ground state will be more populated.)
+Zepheratos: His questions were “thinking physics” type questions:
+1.) You have a cork tied to a string glued to the bottom of a jar filled with water. There is a buoyant force on the cork, but it is tied down, so it can’t float to the top. The jar is sitting on a scale. Suddenly, the string comes unglued and the cork floats to the top. What does the scale read at this moment --does the needle go down or state the same?
+2.) You have a loop of wire. There is a B-field in the z-direction. The loop is initially not in the field. It then moves with a constant velocity in the x-y plane, crossing the B-field in the z-direction. He wanted me to plot the current in the loop as a function of time. The current will increase when the loop first crosses the boundary and then go to zero while it is travelling through the B-field and then increase again in the opposite direction when it crosses the second boundary.
+That was my first oral session. The second was a blur.
+
+Clement:
+1.) Explain why a person’s vision could be fuzzier at night than during the day.
+Barker:
+1.) Concerning the Compton interaction of a photon with an electron, what are the scattering angles in the lab/CM frames, etc.
+Clark:
+1.) Given a conducting rod of arbitrary shape and constant conductivity, show that the current density is uniform within the body of the conductor.
+2.) A bunch of questions from the top of his head concerning adiabatic expansion of ideal gases, probing of nuclear/sub-nuclear dimensions with matter and the Hamiltonian for hyperfine interaction.
+Zafaritos:
+1.) Drop a copper ring (under the influence of gravity) where there is a region that it enters and leaves with a constant magnetic field. Find the current in the ring as a function of time.
+2.) Send a laser beam (of a certain power and diameter) to a corner… question cut off … detector?
+DeAlwis:
+1.) Basic Arahnov-Bohm effect and then show how the interference is invariant under gauge transformation.
+2.) What is the dark matter problem? What was the experimental evidence that lead to this problem? What could be the explanation for it?
+Weiman:
+1.) Given a set of experimentally determined numbers, roughly calculate the mean, the standard deviation and the standard deviation of the mean.
+2.) When doing an experiment on nuclear magnetic resonance, find what quantities the output signal will depend on.
+
+Professors names not recorded:
+1.) A 1D step barrier is given. Set up eqns, give boundary conditions, give a quick approximation to find transmission.
+2.) Vague: How are classical and quantum mechanics related? (I think this had to do with the Hamilton Jacobi equations)
+3.) (Handed sheet polarizer) What is this, and how does it work? What is the axis of polarization for THIS sheet?
+4.) Some problem of stat mech with SHO and heat capacity. Compare ideal gas and nonideal gas heat capacities.
+5.) Why does the method of images work? Prove it works.
+6.) When I first noticed I was needing glasses, my eyesight was worst at night, why?
+7.) Some relativity question. How light wavelength changes when it bounces off a moving mirror at other than normal incidence.
+8.) Calculate the form of the evanescent wave for total internal reflection.
+9.) How does a bar of steel stretch when suspended at one end?
+
+Ristinen:
+1.) A weatherman in New York says that the snow was melted by the recent rainfall and that’s why there were floods. There were about 30” of snow and about 1” of rain. Is the weatherman correct in his assertion?
+2.) What is the jet stream? How does it form?
+3.) Why does the Earth have a magnetic field?
+Franklin:
+1.) Given the mean free path for molecules in a gas at room temperature, calculate the molecular diameter.
+2.) What is parity? Is it always conserved?
+3.) Explain the following 1010 experiment: two unlabled cans roll down an inclined plane. Both are full, both have the same mass, yet one rolls down faster than the other. Why?
+Greene:
+1.) He draws a graph on the board. It is the result of a proton diffraction experiment. I think he was asking about the diameter of an oxygen molecule.
+2.) What is the magnetic moment of an alpha particle? What is the expression relating the magnetic moment and the spin? What is the quadrupole moment of a neutron? Write down the Wigner-Eckart theorem.
+Price:
+1.) A clock made by placing a flashing light and a photodetector at opposite ends of a meter stick is traveling relativistically. What is the time observed by a stationary observer?
+2.) What is the force on the blackboard due to a small handhald laser pointer? (Hermann: How does the laser pointer work?)
+3.) A pendulum clock is made of metal bars and has a pan of mercury on it. What purpose does the mercury serve?
+Hermann:
+1.) What are Hermitian operators? Why are they important in physics?
+2.) What are Cooper pairs? What is BCS theory?
+Wyss:
+1.) How is time measured? The speed of light? (i.e. it’s defined) How is a meter determined?
+2.) What transformation connects inertial frames in specially relativity? Does the Lorentz invariant explicitly involve time?
+3.) Covariant formalism; uniqueness.
+
+Comps II Questions 1995
+Anderson:
+1.) A pulse of light is approaching a slab of dielectric. The slab is non-absorbing and anti-reflection coated. The pulse enters, passes through and leaves the slab. Does the slab move and, if so, where does it end up?
+2.) A non-physicist friend of mine tells me that water boils faster in a Teflon-coated pan than in one that isn’t coated. How does this happen? (It turns out that his friend doesn’t even have a good chef’s notion of what “boiling” means)
+3.) A Crooke’s Radiometer is an evacuated bulb inside of which are four vanes connected together to form a “paddle wheel” which can rotate about a central vertical axis. One side of each vane is polished what and one side is painted black. When light is shined on it, the “paddle wheel” rotates. Why and in which direction? (cut parts of question interpolated by a description of Crooke’s Radiometer on-line)
+Ritzwoller:
+1.) An object with cylindrical geometry is on an inclined plane. Does it get to bottom faster if it purely slides or if it rolls?
+2.) Some generic numerical estimation question.
+Franzen:
+1.) How does a dye laser work? How does an argon ion laser work?
+	(Original writer’s aside: A little “comps nerves” anecdote-
+I started to answer that last one by explaining that the ion atoms must collisionally excite the argon atoms! I may be dumb, but I’m not *that* dumb in real life. Thankfully, the committee, in its wisdom, chalked that one up to nerves. So, if you pull one like that, remember you’re not the first and you won’t be the last.)
+2.) Describe  the pressure broadening of spectral lines and qualitatively describe how this broadening varies with pressure.
+Iddings:
+1.) Consider the isobars Oxygen-15 and Nitrogen-15. Which atom is heavier and why?
+Cumulaat:
+1.) A gas of N particles is contained in a volume V. Estimate the mean interparticle spacing. Write down the deBroglie wavelength of the particles. What types of behavior do you expect when the deBroglie wavelength is i.) Greater than and ii.) less than the mean interparticle spacing? In which realm of behavior do the electrons in a metal at room temperature fall?
+Mahanthappa:
+1.) Two particles of spin 1/2 are constrained to move on the surface of a sphere of radius R such that the particles always remain opposite from each other. Write down the Hamiltonian for the system and its wave functions.
+2.) How do you trap ions?
+3.) How much power must a helicopter expend in order to stay aloft?
+
+Clark:
+1.) Consider a hydrogen atom in its ground state. Suddenly, a cosmic ray shoots past and causes the atom to break apart. Determine the probability of observing the electron with momentum p.
+2.) Imagine you’re interested in ice fishing on a mountain lake, and the lake just started to freeze. Given that the air is some temperature and there’s some thickness of ice on the lake already, what’s the depth of the ice on the lake at some time later.
+3.) What happens to the level of a lake if you’re in a motor boat and you throw the motor overboard?
+4.) A question about a perpetual motion device and why it can’t work.
+5.)  A question about the effective mass of a photon: E = mc^2 and E =hf.
+Hasenfratz:
+1.) Why did Shoemaker-Levy 9 crash into Jupiter? What perturbed its orbit?
+2.) What are some conservation laws and their corresponding symmetries?
+Herman:
+1.) Discuss a simple circuit consisting of a resistor, a switch and a capacitor. (Or something like that.)
+2.) Tell me about super conductivity. How would you measure some of its basic properties?
+Pollack
+1.) How does the nuclear Z number vary with atomic number and why?
+2.) Based on the Hubble constant (which is give to you) estimate the age or size of the universe.
+Miscellaneous (forgot who asked it)
+1.) Tells us about your research. What’s the condition (temp and density) for BEC?
+2.) Can the sun create solar tides as the moon creates lunar tides? Why do we note notice solar tides nearly as much as lunar tides?
+
+(Professor identity not included)
+1.) What is the surface of the water in a glass look like when the glass is rotated around its vertical axis. (They wanted from me a derivation of the equation of the surface)
+2.) Show the equilibrium diagram of the three phases: gas, liquid, solid (with critical temperature)
+3.) How does the size of the sun affects your observations of, say, the interference pattern from two slits (pretend a single wavelength of a source which is the sun and give a quantitative estimate)
+4.) Give an approximate number of photons emitted every second be an Ar ion laser (515 nm wavelength, 10 mW Power)
+
+DeGrand:
+1.) From this graph , what is this device and how does it work? It was a V vs. I graph of a diode. What some simple band gap explanation with P and N type semiconductors.
+Weiman:
+1.) Explain excitation of an atom by a laser and draw a graph of excitation probability vs. frequency. Show selection rules for dipole transition. (wanted me to derive the equation for a driven harmonic oscillator with friction.)
+2.) Can an electron emit a photon in a zero field region?
+3.) Write down the Hamiltonian of a particle in an EM field.
+4.) Estimate the ground energy for a harmonic oscillator, and the hydrogen atom.
+5.) Explain the difference in efficiencies between an incandescent and fluorescent bulb.
+Franklin:
+1.) Tell me about one colloquia from this year.
+2.) There is a pendulum in a museum with a pool of mercury in a pan at the end of the pendulum. What is the purpose of the mercury?
+3.) Name some proofs of special relativity.
+4.) Explain parity conservation, then give examples of non-conservation.
+Clark:
+1.) If we have a hydrogen atom in the ground state and we knock away the proton in 10^-43 sec, how do we find the new state of the atom?
+2.) Explain the difference between the velocity field of water in a pipe and the electric field in a wire. (Curl is zero for E, by stokes law)
+Bartlett:
+1.) The motor fall off a boat, does the lake level rise or fall?
+2.) How could you find the charge on the nucleus of an unknown substance (Mosley X-ray emission)
+3.) What wrong with this perpetual motion machine? (Its cylinder half submerged in a tank, which is half-filled with water and half mercury provides a greater torque on one side of the cylinder than the water side.
+(Professors’ identities not given)
+1.) Describe how a car engine works.
+2.) Design a particle accelerator.
+3.) Given the polarizability of an atom, calculate the force between the atom and an ion.
+4.) When pendulums are used to keep time, why is there a container of mercury used? (The mercury sits on a platform between two steel rods which oscillate back and forth.)
+5.) Explain the 2.7 K background radiation’s origin. What does it say about the age of the universe?
+6.) Others that I cannot remember right now.
+Comps II questions 1994
+Wahr:
+1.) Estimate the temperature of the Sun.
+2.) What effect do the tides have on the moon?
+DeGrand:
+1.) What is “critical mass?” What shape needs the minimal amount of material to form critical mass?
+Weiman:
+1.) Tell me about the Greenhouse effect.
+2.) Inside the sun there is a region of singly ionized helium. There is also a region of doubly ionized helium. Between these two regions, there is a region where singly and doubly ionized helium coexist. What is the heat capacity of the region? How does the heat capacity of the singly ionized region compare to that of the doubly ionized region?
+Hermann:
+1.) Explain briefly how superconductivity works. (not high Tc)
+2.) If a metal disk of radius R is spinning at angular velocity w in a magnetic field B parallel to its spin axis and a circuit is made by a wire contacting the disk a… (incomplete sentence)
+3.) A “parcel” is a volume inside the sun. If one displaced a parcel of solar material from one altitude inside the sun to another, what th… (incomplete sentence)
+Peterson:
+1.) (You are handed a diode.) What is this? What does it do? How does it work?
+2.) I drop a balloon off of Gamov Tower. How much does its volume change?
+DeAlwis:
+1.) What is dark matter? How was its existence first deduced?
+2.)… (cut off at top of page) the solar constant to estimate the Sun’s surface temperature.
+Shepard:
+1.)What is the spin structure of Kaon-nucleon scattering?
+2.) Why do light nuclei have the same number of protons and neutrons?
+Bender:
+1.) Describe the spin state of the electrons in a low energy collision of two hydrogen atoms?
+2.) A two meter wide mirror in orbit around the earth reflects that sun’s rays onto the earth. How big is the image on the earth’s surface? What is the uncertainty in the linear measure of the image?
+3.) What are the fluctuations in the temperature of a blackbody due to fluctuations in the sun’s radiation?
+Liu:
+1.) A charge is placed on a conducting sphere. What is the energy?
+Nauenberg:
+1.) {Something about two concentric spheres, with the central one having a charge on it.}
+2.) How does a power transformer work? Sketch it. Why do power lines and household current run at different voltages anyway?
+3.) In particle collision experiments, why are light particles produced so muc more often than heavy particles?
+4.) Can an object which has not angular moment have a magnetic field?
+5.) A large can is full of water. A small hole is opened at the bottom of the can and the water drains out. What happens to the center of mass (disregarding water which has drained away)?
+6.) What is an analytic function?
+7.) Please integrate Sin(x)/x from -infinity to infinity.
+
+Ristenen:
+1.) Describe how a transformer works, and how a transformer can be used to generate a spark (like for a spark plug). No capacitors are allowed in the circuit.
+Smythe:
+1.) Describe how to determine if a pulsar is part of a binary star system (you can’t use occultation.) How could such a system provide a test for general relativity?
+2.) Why is a moving bike stable? (Massless wheels, angular momentum is NOT a part of the solution he was looking for.)
+Levine:
+1.) Why isn’t it surprising that the Earth’s core is made mostly of lead?
+Barker:
+1.) We generally think of the acceleration of gravity as a constant, but we know it’s really a function of distance. Calculate the time it takes for a mass to fall a distance “D” onto the earth’s surface (neglect air friction.)
+Hasenfratz:
+1.) Describe the Zeeman effect.
+2.) What is a first order phase transition? Second order?
+Pollock:
+1.) Derive the energy of an atom (approximately) using basic methods.
+Garstang:
+1.) The temperature of the moon’s surface drops *very* quickly after being covered by the Earth’s shadow. Why?
+Bartlett:
+1.) Show that the ratio of densities of sun and moon are approximately equal … the relative effect upon the tides. (not clearly written here)
+Ashby:
+1.) Give estimates of the size of: nuclei, atoms, planets, our solar system, our galaxy, distance to the nearest galaxy.
+Phillipson:
+1.) Do the following integral by contours: Integrate [Sin[x]/x, {x,0, infinity}]
+2.) In the hydrogen molecule, which energy levels are stronger -- rotational or vibrational -- and what are the magnitudes?
+Gilbert:
+1.) A gas (hydrogen, for example) is far away. Design an experiment to measure the velocity distribution of the molecules of the gas.
+2.) Tell me everything you know about the energy levels of a hydrogen atom.
+Barut:
+1.) Estimate the size of a nucleus, an atom and the universe. What particles have the highest energy levels?
+Levine:
+1.) You want to make a cup of tea. Calculate the efficiency of heating water starting with a lump of coal. Include all intermediate processes.
+2.) Why is the center of the Earth composed of iron?
+Hasenfratz:
+1.) Write a quantum Hamiltonian for a particle or particles in an electromagnetic field.
+Iddings:
+1.) In quantum mechanics, is the phase important?
+2.) Write down the wavefunction for two interacting hydrogen atoms. Treat the system as non-rotating and Boltzmann.
+Bender:
+1.) What is the noise on an interferometer?
+Bartlett:
+1.) How do you measure the Earth’s magnetic field lines with one magnet? How did Gauss establish a standard for field measurement?
+2.) Why is the moon’s contribution to the tides greater than the sun’s?
+
+Smythe:
+1.) Why is Goldstein’s cover wrong for central force orbits?
+2.) A capacitor is composed of two concentric conducting spheres. A proton beam feeds charge Q= It. What are B, E and S between the spheres?
+Hermann:
+1.) Tell me everything you know about superconductors.
+2.) A circuit has a capacitor, resistor, battery and a switch. Draw the current versus time. How is current conserved in this circuit?
+3.) Tell me about the band structure of solids. Plot energy versus wavenumber.
+Anderson:
+1.) A macroscopic dielectric sphere is at the edge of a laser beam. What is the energy of the sphere? What is the force on the sphere?
+2.) A beam of light enters a slab and is completely transmitted. What quantities are conserved? Does the slab move?
+Downs:
+1.) Estimate the number of barbers in the Unites States.
+2.) Estimate the amount of beef consumed in the United States each day.
+3.) What are the energy levels of a charged particle in Coulomb potential? How much energy is needed to remove an electron in the n=50 level?
+Barker:
+1.) Why can’t a photon decay into an electron-positron pair in vacuum?
+Dunn:
+1.) A proton and a neutron are a distance d apart. Estimate the force between the nucleons. Approximate the system as a square well potential and estimate its depth.
+Malzbender:
+1.) Write draw the electromagnetic spectrum and give examples of the sources.
+2.) Estimate the maximum density of a solar sail for the damn thing to move.
+3.) Find the period of a pendulum where the weight is a bucket of water draining out.
+Price:
+1.) Explain how to trap neutral atoms.
+2.) What is the size of solar cells needed to run the elevators in Duane?
+3.) Calculate the number of electrons in the Noble gasses is electrons have spin 3/2
+Ford:
+1.) Explain why the number of neutrons and protons in a nucleus is nearly the same in atoms with low atomic number.
+2.) Explain the difference between the Bohr and Rutherford models of the atom.
+3.) A charged particle is in an electric field with friction applied. Find the equation of motion.
+4.) Torsion pendulum with a magnet attached to the bob is in the Earth’s magnetic field. Find the precession.
+Norcross:
+1.) How many bricks are in Duane?
+Rodgers:
+1.) Explain why the eigenstates of hydrogen are not infinitely stable.
+Nauenberg:
+1.) Concentric spheres are half-filled with liquid dielectric. Find the electric field everywhere.
+Ashby:
+1.) What are some conserved quantities and when are they found?
+Drietlein:
+1.) Two boxes the same size are filled with argon and neon with the same pressure, temperature. Find the entropy and internal energy when the boxes are combined.
+2.) A particle moves in an electric dipole. Find the Hamiltonian. What is conserved and why? Repeat for a magnetic dipole.
+DeAlwis:
+1.) Why is P + P --> P + P + P impossible? What is the threshold energy of P + P --> three protons and one antiproton?
+2.) What is dark matter? What is the velocity of stars around galaxies and how far from it can one find the matter distribution?
+Rankin:
+1.) How does energy flow in a lake?
+2.) What is the difference between the Doppler shifts for light and sound? Derive each. Is the universe expanding or contracting and how do we know?
+Mahanthappa:
+1.) A cart of mass M running on a surface with friction mu and initial velocity v0. If sand is draining from the cart, what is the velocity when sand of mass m has drained out?
+Smith:
+1.) How do electrons and photons behave when they enter matter?
+2.) Write down the Hamiltonian for Nuclear magnetic resonance.
+Gallagher:
+1.) What is the age of the universe? Name some ways the age could be determined.
+Geltman:
+1.) A helium ion and a helium atom are separated by 10 Angstroms. What is the potential between and what is the electric field?
+Harvey:
+1.) Solve he wave equation in one dimension with fixed boundary conditions.
+Questions that lack an author:
+Describe the interaction of the solar wind with earth’s magnetic field. Write down the equation for the force the field imparts to the particles.
+Tell me what the zenith angle of the full moon is during the summer in Boulder at midnight.
+Describe the process of weighing a fixed amount of sand in an hourglass, when the sand is running through the glass as compared to when the sand is all at the bottom.
+Describe the action of a charged particle as it progresses from a region of no magnetic field to a region of magnetic field. Assuming the particle is in a circular arc, write down all forces, Lorentz and centrifugal. Is the centrifugal real?
+Why is the interior of the Earth hot? Where did the uranium and thorium in the interior come from?
+If you are in a boat in Boulder reservoir and throw an anchor overboard, what happens to the water level?
+In the early 1900s, how would you go about calculating Planck’s constant? Describe the Millikan experiment. Describe the photoelectric effect. How do you determine the work function?
+Calculate the acceleration on a heavier mass in an Atwood machine.
+If you were on the Sun’s surface and a gun was fired in the center, would you see or hear it first? Why?
+If the snow depth on campus was a uniform one centimeter, how many protons are there in the snow?
+What is the frequency of rotation of an electron in a magnetic field?
+More modern style comps II questions, 2005
+Committee 1 (Degrand, Dessau, Kapteyn) Dec 2005
+Degrand: How big are nuclei? How do you measure their size? (Rutherford experiment)
+Dessau: How does a transformer work?
+Kapteyn: Tell me how the idea of a photon was developed?
+Committee 2 (Degrand, Dessau, Murnane) Jan 2006
+Degrand: How big are atoms? How would you measure their size? How would you determine Avogadro’s number?
+Dessau: How do the sizes of atoms vary with atomic number?
+Murnane: Could you derive the wave equation from Maxwell’s equations?
+Degrand: What rolls down a hill faster, a bowling ball or a barrel?
+Dessau: What is the difference between a metal, a semi-conductor and a barrel? Why is the Fermi energy of a semi-conductor in the middle of the gap: not the top or the bottom?
+Murnane: Why do metals reflect light? (explanation based on plasma frequency?)
+First set:
+Bartlet: There is a metal pipe in the ground. You have a compass. Can you find the pipe?
+Cornell: There is a double well potential. If the wave function is in one side what is going to happen? What will be the frequency of what happens?
+Third Dude on my committee: There is a charged particle in a magnetic field, what will happen? Now suppose there is a uniform electric field perpendicular to the magnetic field. How will the particle move?
+Bartlet: You have a rectangular wave guide 1” by 1/2”. What does the normal mode look like? What is the lowest frequency that can propagate?
+Cornell: If the tower (Gamov) were sealed up and all air were pumped out, how much less would the tower weigh?
+I messed up a lot more on the second oral session. (K.T. Chris Greene and someone else)
+Chris Greene: Stark effect. (Although I remember most of the perturbation expansion formalism, I could not remember the if it was Enot - Ek or Ek - Enot in the denominator of the expression for the shift in energy. Hence I didn’t know the sign of the effect.) Alpha-decay (When I started to try to explain this with Fermi’s golden rule I actually saw Chris Greene quickly shake his head ‘no.’ I kept going, blathering on for a while. After the test I realized I could have used the uncertainty principle. Oops!)
+Could the U.S. have determined the mass of Sputnik from its orbit?
+K.T.: What is pressure? How would you explain atmospheric pressure to a second grader? What is the weight of the atmosphere? (K.T. and me disagreed on the best way to explain pressure.)
+I have two particles confined to move opposite each other. What is the Hamiltonian? What are the energy levels? They are two indistinguishable spin 0 particles. What are the wave functions? Now they are spin 1/2 indistinguishable particles What are the wave functions?
+What is Rayleigh Scattering? Why is the sky blue? Why aren’t the clouds blue?
+Comps2 Committee (Degrand, Maclennan, Murnane) March 2006
+Murnane: if you have a battery with an internal resistor an you have a set of light bulbs, how would you arrange the light bulbs to get the maximum brightness from them? (The equivalent light bulbs have to match the internal resistance of the battery, they said it was an analogy to impendence match.)
+Degrand: How big are nuclei? How do you measure their size? If instead of treating it as a point charge you treat it as a sphere, which effects this charge more, the large momentum transfer or the small momentum transfer?
+Maclennan: What is polarization? How do you encounter polarization on an everyday basis? What is important for a fisherman? Is the light from the sky polarized? How do these sunglasses work? (I started to draw an EM wave, then talked about Brewster angle, and about the equation for intensity in polarizers, etc, etc)
+Murnane: Write down Maxwell’s equations. Derive the wave equation in metals. How could you find the skin depth? (I didn’t get to the skin depth, just talked about how to get there, she seemed happy with that.)
+Maclennan: How does a guitar work? Something about the relationship of the waves in the guitar with the pitch we hear. What kind of waves are sound waves and the waves in the guitar?
+Sandberg Comps II (1-17-06) John Cary, Jamie Nagle, Henry Kapteyn
+Kapteyn: What is a toroid? What is it used for? (Confining plasmas)
+Nagle: What is the twin paradox? Why is it a paradox? What principle corrects the fact that special relativity says they would be different ages? (General- relativity - non-inertial reference frame of the accelerating space ship.)
+Cary: I have a big cube of copper and a coil of wire above it. If I close a circuit through the coil so that a current begins to flow through it, the coil of wire jumps into the air, why?
+Nagle: Where does the mass of a proton come from? What does the unified theory predict about the mass of a quark? (Wanted me to show that binding energy contributes negatively to mass.)
+Kapteyn: How does a toroid confine a plasma?
+Lytle, (3-7-06) Margaret Murnane, Dana Anderson, Walter Wyss
+Murnane:
+1.) Why are metals reflective in the visible? What are typical plasma frequencies for metals?
+Anderson:
+1.) How would you figure out the frequency associated with an electron moving around an atom, approximating classically?
+2.) Why, in HHG, do electrons released only for a certain range of electric field phase values return to the vicinity of the ion, allowing recombination?
+3.) You have a battery with 10 ohms of internal resistance. You also have three light bulbs of resistances 7 ohms, 3 ohms and 2 ohms. How do you set up the circuit in order to get the maximum amount of power from the system, using any or all of the light bulbs?
+Wyss:
+1.) You have a hydrogen atom, with none of the fancy stuff (like spin-orbit coupling, hyperfine splitting, etc. Essentially the Bohr model.) What does the energy of a photon emitted from a transition between energy levels depend on? If you detect a photon from such an atomic transition, does this unambiguously determine which two energy levels were involved in the transition?
+2.) (He draws a 2D random shape on the board for a physical pendulum, specifying the axis of rotation, the center of mass a distance d away and that he wants me to consider small angles only. He led me through to the equation of motion, although I was incredibly confused by his leading questions during most of this process. When I tried to write down something I know in order to go from there, he stopped me and insisted I answer his specific question.) How does the moment of inertial about the axis I’ve drawn relate to the moment of inertia when a parallel axis is at the center of mass?
+Raymondson, (3-14-06) DeGrand, Kapteyn, Goldman
+Goldman: When a laser pulse passes through a plasma and creates a wakefield, what kind of wave is that? (i.e. transverse or longitudinal) How does the ponderomotive force of the laser affect the electrons? What is the direction of this push? What is a typical energy of one of these electrons after it is pushed out of the laser focus? (~100 keV for laser parameters I was discussing, so this ends up being relativistic.) What speed does this correspond to? On what time scale do the electrons rebound? How do the ions respond in this process? (This was in the “general physics” part of the exam but was related to my talk on plasmas; some of it seems like it could be fair game for anyone’s exam, though.)
+DeGrand: Can you talk about the energy levels in an atom and what happens when you put two atoms together, then several, and working up to a solid? How does this lead to the difference between a conductor, a semiconductor and an insulator? What is a typical value for that bandgap in an insulator? Is a semiconductor like that on its own (referring to extra positive or negative charge carriers) or do you have to do something to it? Kapteyn: What is the name of these charge carriers? (excitons) Goldman: What is a typical value for the bandgap in a semiconductor? Kapteyn: What happsn to those energy levels in a semiconductor if you put those two together (p-type and n-type?) What is you don’t put a voltage across it? In metal, if those electrons in the conduction band are free to move because they have some thermal energy, what happens if the metal is very cold? How do the electrons respond to the light then? Does a metal at absolute zero become transparent? Goldman: What is a typical value for the energy of those electrons in the conduction band? (He was looking for “Fermi energy” but this wasn’t clear for a while.) Kapteyn: How many electrons are in the conduction band? (He was looking for “about one per atom.”)
+Goldman: How is a metal like a plasma? What is a typical value for the plasma frequency in a metal? What are the plasma frequencies for gold, silver and copper?
+Goldman: Can you write down the energy distribution of electrons in a plasma and in a metal? (I couldn’t remember the equations, but I drew a graph instead, and DeGrand seemed happy with that.) How does it change if the metal has some thermal energy?
+Goldman: What is the important value of a particle’s energy in a plasma? What is the condition to maintain free charged particles in a plasma? (Again, this was in the “general physics” part of the exam but was related to my talk on plasmas. What he was looking for was the plasma parameter, which is the ratio of a particle’s kinetic energy to its potential from all the other particles in a Debye sphere.)
+Goldman: Here he asked me to explain or derive some plasma phenomenon I’d never heard of. DeGrand told him that he didn’t even know that and it wasn’t a fair question.
+DeGrand: Can you show me how to calculate how high up to put a satellite for geosynchronous orbit? (When I started to add in some numbers, he said “Don’t worry about those, just show the equations to get r.”)
+
+Siemens, (3-24-06) Kapteyn, Dubson, Dessau
+Dubson: How does an electron behave in a magnetic field? What is the cyclotron frequency?
+Dessau: An electron and positron can combine, emitting light. Is the opposite possible? What must be conserved in the process?
+Dubson: Why was the observation of the photoelectric effect such a big deal? Many people are concerned about microwaves causing cancer, but why are physicists not concerned about this?
+Kapteyn: How does a free electron behave in the presence of an EM wave? What is the frequency of this response? How does this relate to something we talk about in the lab? (Proderomotive)
+Dubson: I have two copper balls that are identical except that I paint one white and the other black. If I put them both in an oven at 600 degrees C, how will the two balls’ temperature depend on time? What are the three methods of heat transfer? (I couldn’t think of the word “radiation,” so Kaptyen bugged me about it afterward.)
+Zhou (4-18-06) Nagle, Murnane, Greene
+Nagle:
+1.) Estimate the speed of an electron in a hydrogen atom.
+2.) Assuming the electron is a rotating sphere with a diameter less than 10^-18 m, estimate how fast it should rotate to generate the electron spin.
+Murnane:
+1.) Derive the wave equation from Maxwell’s equations.
+Greene:
+1.) Can you generate a second harmonic with a Hydrogen atom? (relating to paper)
+2.) The energy level of a hydrogen atom: using the Bohr model to estimate spin coupling.
+3.) (What is??) the magnetic dipole of the Helium ground state?
+
+Comps II Questions 2011
+Spring semester, Shu
+DeGrand:
+1.) How do you detect extra-solar planets? ( 2 different possible answers, my answer was to do solar  occultation, detect the dip in intensity from the star when the planet passes in front of the star, only works for large planets very close to star.  Other answer is the planet will cause the star to wobble and the doppler shift from the wobble can be detected.)
+2.) A hydrogen atom with electron in the p2 orbital decays very quickly to the s1 orbital, but an electron in the s2 decays very very slowly. Why is that? (Selection rules forbid it, but my preferred answer is that a photon traveling at speed of light must carry away + or - 1 angular momentum.  s2 to s1 has no angular momentum change and thus is not allowed.)
+Parker:
+1.) What are the energy levels of a quantum SHO and why is it quantized? (Energy levels are hbar omega.  Parker was looking for Hermite polynomials to the quantization part, though I answered with raising and lowering operators and that there must exist a minimum energy level.)
+Ye:
+1.) Why do single photon states not exist (when attenuating a laser?) (Related to my topic.) What is the conjugate of photon number? (Heisenberg's principle of uncertainty states that the uncertainty in the product of two variable conjugates is always greater than hbar/2. The variable conjugate of photon number is phase, this means that a laser which is coherent has a well known phase meaning the photon number cannot be well defined.)
+
+
